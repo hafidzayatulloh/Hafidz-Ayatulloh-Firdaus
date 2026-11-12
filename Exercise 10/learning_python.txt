@@ -1,0 +1,4 @@
+Dengan Python kamu bisa menyimpan data di dalam variabel.
+Dengan Python kamu bisa mengulang pekerjaan memakai loop for dan while.
+Dengan Python kamu bisa membuat fungsi dan class sendiri.
+Dengan Python kamu bisa mengimpor kode dari file lain.
